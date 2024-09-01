@@ -58,9 +58,16 @@
               "outputHashing": "all"
             },
             "development": {
+
               "optimization": false,
               "extractLicenses": false,
-              "sourceMap": true
+              "sourceMap": true,
+              "fileReplacements": [
+                {
+                  "replace": "src/app/environments/environments.ts",
+                  "with": "src/app/environments/environments.development.ts"
+                }
+              ]
             }
           },
           "defaultConfiguration": "production"
@@ -103,5 +110,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "69cda17f-7c91-4e07-ae7a-6ce57b50e380"
   }
 }

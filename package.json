@@ -7,7 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:consumindo-api": "node dist/consumindo-api/server/server.mjs"
+    "serve:ssr:consumindo-api": "node dist/consumindo-api/server/server.mjs",
+     "json-server": "json-server --watch src/db/db.json --port 3000"
   },
   "private": true,
   "dependencies": {
