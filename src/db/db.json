@@ -28,7 +28,7 @@
     {
       "id": "7",
       "author": "Elvis Presley ",
-      "text": "Love Me Tender"
+      "text": "Can't Help Falling in Love"
     },
     {
       "id": "8",
@@ -42,8 +42,108 @@
     },
     {
       "id": "10",
-      "author": "Elvis Presley ",
-      "text": "Can't In Felling Love"
+      "author": "Aerosimth ",
+      "text": "Crazy"
+    },
+    {
+      "id": "11",
+      "author": "Led Zeppelin ",
+      "text": "Stairway to Heaven"
+    },
+    {
+      "id": "12",
+      "author": "Queen",
+      "text": "Bohemian Rhapsody"
+    },
+    {
+      "id": "13",
+      "author": "Eagles",
+      "text": "Hotel California"
+    },
+    {
+      "id": "14",
+      "author": "Gun N'Roses",
+      "text": "Sweet Child O'Nine"
+    },
+    {
+      "id": "15",
+      "author": "AC / DC ",
+      "text": "Black to Black"
+    },
+    {
+      "id": "16",
+      "author": "Gun N'Rose",
+      "text": "November Rain"
+    },
+    {
+      "id": "17",
+      "author": "Queen",
+      "text": "We Will Rock You"
+    },
+    {
+      "id": "18",
+      "author": "John Lenon",
+      "text": "Imagine"
+    },
+    {
+      "id": "19",
+      "author": "Nirvana",
+      "text": "Like Teen Spirit"
+    },
+    {
+      "id": "20",
+      "author": "The Beatles",
+      "text": "Hey Jude"
+    },
+    {
+      "id": "21",
+      "author": "Erick Crepton",
+      "text": "Tears in Heaven"
+    },
+    {
+      "id": "22",
+      "author": "Joe Cocker",
+      "text": "With a Little Help From My Friends"
+    },
+    {
+      "id": "23",
+      "author": "Elvis Presley",
+      "text": "Suspicious Minds"
+    },
+    {
+      "id": "24",
+      "author": "Elvis Presley",
+      "text": "Don't be Cruel"
+    },
+    {
+      "id": "25",
+      "author": "Aerosmith",
+      "text": "Dream On"
+    },
+    {
+      "id": "26",
+      "author": "Aerosmith",
+      "text": "Walk this Way"
+    },
+    {
+      "id": "27",
+      "author": "Aerosmith",
+      "text": "Sweet Emotion"
+    },
+    {
+      "id": "28",
+      "author": "Aerosmith",
+      "text": "Angel"
+    },
+    {
+      "id": "29",
+      "author": "Aerosmith",
+      "text": "Dude"
+    },
+    {
+      "id": "30",
+      "author": "Aerosmith",
+      "text": "I Don't Want to Miss a Thing"
     }
   ]
 }

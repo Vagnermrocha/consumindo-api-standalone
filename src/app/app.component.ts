@@ -70,8 +70,8 @@ export class AppComponent {
     this.autor = musica.author;
   }
 
-  remover(id: number) {
-    this.musicService.remover(id)
+  remover(id: string) {
+    this.musicService.remover(Number(id))  // Converte o id para número
       .subscribe(_ => this.obterMusicasCadastradas());
   }
 
