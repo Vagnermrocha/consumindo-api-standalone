@@ -1,27 +1,57 @@
-# ConsumindoApi
+🔗 Consumindo API com Angular Standalone
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
+Projeto desenvolvido com Angular 18.2.2 utilizando Standalone Components, uma abordagem moderna que dispensa a necessidade de módulos (NgModule). O foco é consumir dados de uma API externa e exibir na interface de forma reativa.
 
-## Development server
+🚀 Tecnologias utilizadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Angular 18.2.2
+- TypeScript
+- HTML / SCSS
+- Angular Standalone Components
+- Angular HTTPClient
 
-## Code scaffolding
+📦 Funcionalidades
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- ✅ Consumo de API externa
+- ✅ Exibição dinâmica de dados
+- ✅ Componentes standalone
+- ✅ Estilização básica com SCSS
 
-## Build
+▶️ Como executar o projeto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Clone o repositório
 
-## Running unit tests
+`bash
+git clone https://github.com/Vagnermrocha/consumindo-api-standalone.git
+cd consumindo-api-standalone
+`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+2. Instale as dependências
 
-## Running end-to-end tests
+`bash
+npm install
+`
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+3. Inicie o servidor de desenvolvimento
 
-## Further help
+`bash
+ng serve
+`
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Acesse em: http://localhost:4200
+
+📚 Aprendizados
+
+Este projeto foi criado para praticar:
+- Uso de Standalone Components no Angular
+- Consumo de APIs REST com HttpClient
+- Organização de código moderno e enxuto
+- Boas práticas com Angular 18+
+
+📄 Licença
+
+Este projeto está sob a licença MIT.
+
+---
+
+Desenvolvido com 💻 por Vagner Rocha
