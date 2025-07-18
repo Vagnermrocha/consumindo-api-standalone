@@ -48,10 +48,6 @@ Este projeto foi criado para praticar:
 - Organização de código moderno e enxuto
 - Boas práticas com Angular 18+
 
-📄 Licença
-
-Este projeto está sob a licença MIT.
-
 ---
 
 Desenvolvido com 💻 por Vagner Rocha
